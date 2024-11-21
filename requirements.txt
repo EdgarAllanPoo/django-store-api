@@ -1,0 +1,6 @@
+django
+djangorestframework
+environs
+django_filters
+django-redis
+debug_toolbar
